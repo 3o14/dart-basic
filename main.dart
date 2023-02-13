@@ -1,4 +1,5 @@
 class Player {
+  // final : 상수
   final String name;
   int xp;
   String team;
